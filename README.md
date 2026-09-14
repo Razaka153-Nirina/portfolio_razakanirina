@@ -1,15 +1,23 @@
-## 🌐Portfolio – Razakanirina Aingo
+# 🌐 Portfolio – Razakanirina Aingo
 
 Portfolio personnel développé en HTML, CSS et JavaScript vanilla, sans framework.
 
+## 🚀 Lien
+
+```bash
+https://razaka153-nirina.github.io/portfolio_razakanirina/index.html
+```
 ## ✨ Fonctionnalités
-Design Glassmorphism avec effets de flou et cartes translucides
-Animations d'entrée en cascade et révélation au scroll
-Curseur personnalisé et parallaxe sur le hero
-Mise en page responsive (mobile & desktop)
-Page Projets avec layout alterné image / texte
+
+- Design **Glassmorphism** avec effets de flou et cartes translucides
+- Animations d'entrée en cascade et révélation au scroll
+- Curseur personnalisé et parallaxe sur le hero
+- Mise en page **responsive** (mobile & desktop)
+- Page Projets avec layout alterné image / texte
 
 ## 🗂️ Structure
+
+```
 portfolio/
 ├── index.html          # Page d'accueil
 ├── projets.html        # Page projets
@@ -22,10 +30,12 @@ portfolio/
 │   └── main.js         # Animations & interactions
 └── assets/
     └── images/         # Illustrations et captures
-    
+```
+
 ## 🛠️ Technologies
 
-HTML CSS JavaScript Google Fonts
+`HTML` `CSS` `JavaScript` `Google Fonts`
 
+---
 
-Étudiante en BUT Informatique — IUT de Saint-Dié-des-Vosges
+*Étudiante en BUT Informatique — IUT de Saint-Dié-des-Vosges*
