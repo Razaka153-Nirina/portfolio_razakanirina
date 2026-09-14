@@ -499,6 +499,7 @@ body {
 .reseau-icon svg { width: 24px; height: 24px; }
 
 .reseau-icon--linkedin { background: #0077b5; }
+.reseau-icon--youtube { background: #ff0000; }
 
 /* Texte */
 .reseau-info {
