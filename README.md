@@ -2,7 +2,7 @@
 
 Portfolio personnel développé en HTML, CSS et JavaScript vanilla, sans framework.
 
-##✨ Fonctionnalités
+## ✨ Fonctionnalités
 Design Glassmorphism avec effets de flou et cartes translucides
 Animations d'entrée en cascade et révélation au scroll
 Curseur personnalisé et parallaxe sur le hero
